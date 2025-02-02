@@ -1,0 +1,30 @@
+
+#display{
+    width: 51%;
+    height: 480PX;
+    background-color: azure;
+    margin-left: 30%;
+    margin-top: 80PX;
+    border: solid;
+    border-collapse: collapse;
+    display: block;
+    justify-content: space-between;
+}
+#input{
+    margin-top: 0;
+    height: 70px;
+  margin-left: 2%;
+  margin-right: 2%;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 11%;
+    padding-left:12% ;
+    margin-bottom: 3px;
+    color: #000;
+    background-color: white;
+    display: grid;
+}
+button{
+    padding: 10px 9%;
+    margin: 5px 3%;
+}
